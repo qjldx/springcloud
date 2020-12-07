@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.atguigu.springcloud</groupId>
-    <artifactId>cloud2020</artifactId>
+    <artifactId>springcloud</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -51,6 +51,7 @@
             <type>pom</type>
             <scope>import</scope>
         </dependency>
+        <!--spring cloud Hoxton.SR1-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-dependencies</artifactId>
@@ -58,6 +59,7 @@
             <type>pom</type>
             <scope>import</scope>
         </dependency>
+        <!--spring cloud 阿里巴巴-->
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
             <artifactId>spring-cloud-alibaba-dependencies</artifactId>
@@ -65,11 +67,15 @@
             <type>pom</type>
             <scope>import</scope>
         </dependency>
+
+        <!--mysql-->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>${mysql.version}</version>
+            <scope>runtime</scope>
         </dependency>
+        <!-- druid-->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>druid</artifactId>
@@ -80,21 +86,17 @@
             <artifactId>mybatis-spring-boot-starter</artifactId>
             <version>${mybatis.spring.boot.version}</version>
         </dependency>
-      <dependency>
-        <groupId>junit</groupId>
-        <artifactId>junit</artifactId>
-          <version>${junit.version}</version>
-      </dependency>
+        <!--junit-->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>${junit.version}</version>
+        </dependency>
+        <!--log4j-->
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
             <version>${log4j.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>${lombok.version}</version>
-
         </dependency>
     </dependencies>
     <build>
