@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67d5cb04-4dee-443b-b127-66b7030f09ab" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
@@ -19,6 +20,12 @@
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/mapper/PaymentMapper.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/contgroller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/contgroller/PaymentController.java" afterDir="false" />
+>>>>>>> 6a0bdaac5e82f6cb436fc282cda9361013746b4f
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +52,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="G:/apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="G:\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="localRepository" value="F:\repo" />
+        <option name="mavenHome" value="F:/soft/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\soft\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -86,6 +94,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.26551723" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
@@ -99,6 +108,9 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
+=======
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+>>>>>>> 6a0bdaac5e82f6cb436fc282cda9361013746b4f
   </component>
   <component name="RunManager" selected="Spring Boot.PaymentMain8001 (1)">
     <configuration name="Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -224,10 +236,14 @@
       <workItem from="1607359934295" duration="644000" />
       <workItem from="1607420385471" duration="7237000" />
       <workItem from="1607434042078" duration="2953000" />
+<<<<<<< HEAD
       <workItem from="1607438363073" duration="228000" />
       <workItem from="1607483149413" duration="3518000" />
       <workItem from="1607517448309" duration="5704000" />
       <workItem from="1607523279311" duration="5208000" />
+=======
+      <workItem from="1607439354218" duration="1607000" />
+>>>>>>> 6a0bdaac5e82f6cb436fc282cda9361013746b4f
     </task>
     <servers />
   </component>
@@ -235,13 +251,23 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="488" y="48" key="#OrderMain80" timestamp="1607528632868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="488" y="48" key="#OrderMain80/0.0.1920.1040/-1440.10.1440.900@0.0.1920.1040" timestamp="1607528632868" />
     <state x="552" y="180" key="#Project_Structure" timestamp="1607358420933">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state x="275" y="25" key="#Notifications" timestamp="1607441015853">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="275" y="25" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1607441015853" />
+    <state x="393" y="51" key="#Project_Structure" timestamp="1607441251577">
+      <screen x="0" y="0" width="1366" height="728" />
+>>>>>>> 6a0bdaac5e82f6cb436fc282cda9361013746b4f
+    </state>
+    <state x="393" y="51" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1607441251577" />
     <state x="552" y="180" key="#Project_Structure/0.0.1920.1040/-1440.10.1440.900@0.0.1920.1040" timestamp="1607358420933" />
     <state x="414" y="177" width="1165" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607528600628">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -259,10 +285,12 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="717" y="352" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1920.1040/-1440.10.1440.900@0.0.1920.1040" timestamp="1607436085123" />
-    <state x="657" y="317" key="FileChooserDialogImpl" timestamp="1607436323423">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="467" y="222" key="FileChooserDialogImpl" timestamp="1607441308880">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="467" y="222" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607441308880" />
     <state x="657" y="317" key="FileChooserDialogImpl/0.0.1920.1040/-1440.10.1440.900@0.0.1920.1040" timestamp="1607436323423" />
+<<<<<<< HEAD
     <state width="1007" height="269" key="GridCell.Tab.0.bottom" timestamp="1607528681437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -280,6 +308,29 @@
     </state>
     <state width="1007" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.10.1440.900@0.0.1920.1040" timestamp="1607528681437" />
     <state width="1007" height="269" key="GridCell.Tab.1.bottom" timestamp="1607528681438">
+=======
+    <state width="850" height="171" key="GridCell.Tab.0.bottom" timestamp="1607441384326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="850" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607441384326" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.10.1440.900@0.0.1920.1040" timestamp="1607433972927" />
+    <state width="850" height="171" key="GridCell.Tab.0.center" timestamp="1607441384326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="850" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607441384326" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.10.1440.900@0.0.1920.1040" timestamp="1607433972927" />
+    <state width="850" height="171" key="GridCell.Tab.0.left" timestamp="1607441384326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="850" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607441384326" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.10.1440.900@0.0.1920.1040" timestamp="1607433972927" />
+    <state width="850" height="171" key="GridCell.Tab.0.right" timestamp="1607441384326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="850" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607441384326" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.10.1440.900@0.0.1920.1040" timestamp="1607433972927" />
+    <state width="1876" height="277" key="GridCell.Tab.1.bottom" timestamp="1607433373937">
+>>>>>>> 6a0bdaac5e82f6cb436fc282cda9361013746b4f
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1007" height="269" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1440.10.1440.900@0.0.1920.1040" timestamp="1607528681438" />
@@ -299,6 +350,7 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="490" y="177" key="Maven.ArtifactSearchDialog/0.0.1920.1040/-1440.10.1440.900@0.0.1920.1040" timestamp="1607425301873" />
+<<<<<<< HEAD
     <state x="531" y="184" key="Registry" timestamp="1607523190887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -307,6 +359,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="151" key="SettingsEditor/0.0.1920.1040/-1440.10.1440.900@0.0.1920.1040" timestamp="1607523088512" />
+=======
+    <state x="326" y="0" key="SettingsEditor" timestamp="1607441314381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607441314381" />
+    <state x="463" y="151" key="SettingsEditor/0.0.1920.1040/-1440.10.1440.900@0.0.1920.1040" timestamp="1607433963136" />
+>>>>>>> 6a0bdaac5e82f6cb436fc282cda9361013746b4f
     <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1607360572751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
