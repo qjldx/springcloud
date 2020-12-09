@@ -6,19 +6,19 @@ import java.io.Serializable;
 
 
 public class Payment implements Serializable {
-    private Long id ;
+    private Integer id ;
     private String serial;
 
-    public Payment(Long id, String serial) {
+    public Payment(Integer id, String serial) {
         this.id = id;
         this.serial = serial;
     }
 
-    public Long getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 

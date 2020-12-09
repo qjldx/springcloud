@@ -16,7 +16,7 @@ public class PaymentServiceImpl  implements PaymentService {
     public int create(Payment payment){
         return paymentDao.create(payment);
     }
-    public Payment getPaymentById(Long id){
+    public Payment getPaymentById(Integer id){
         return paymentDao.getPaymentById(id);
     }
 }
